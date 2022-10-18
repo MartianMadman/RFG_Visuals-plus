@@ -1,0 +1,15 @@
+<Mod Name="Visuals-plus_v1">
+  <Author>MartianMadman</Author>
+  <WebLink Name="Github">https://github.com/MartianMadman</WebLink>
+  <Description>Improves overall visual quality without any performance impact at all. Removes fog near clipping and decreases ambient light to make shadows darker.</Description>
+  <Changes>
+    <Replace File="data\misc.vpp\terr01_badlands.dtodx" NewFile="newfolder\terr01_badlands.dtodx" />
+    <Replace File="data\misc.vpp\terr01_dust.dtodx" NewFile="newfolder\terr01_dust.dtodx" />
+    <Replace File="data\misc.vpp\terr01_end_game.dtodx" NewFile="newfolder\terr01_end_game.dtodx" />
+    <Replace File="data\misc.vpp\terr01_eos.dtodx" NewFile="newfolder\terr01_eos.dtodx" />
+    <Replace File="data\misc.vpp\terr01_manufacturing.dtodx" NewFile="newfolder\terr01_manufacturing.dtodx" />
+    <Replace File="data\misc.vpp\terr01_oasis.dtodx" NewFile="newfolder\terr01_oasis.dtodx" />
+    <Replace File="data\misc.vpp\terr01_parker.dtodx" NewFile="newfolder\terr01_parker.dtodx" />
+    <Replace File="data\misc.vpp\terr01_tutorial.dtodx" NewFile="newfolder\terr01_tutorial.dtodx" />
+  </Changes>
+</Mod>
